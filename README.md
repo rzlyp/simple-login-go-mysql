@@ -5,6 +5,8 @@ Just for fun :D
 #1.Create The Database with name go_db
 
 #2. Create Table 
+create table with name users
+
 	CREATE TABLE `users` (
 	  `id` int(11) NOT NULL AUTO_INCREMENT,
 	  `username` varchar(50) DEFAULT NULL,
@@ -15,6 +17,7 @@ Just for fun :D
 
 #run
 you should import the library first
+
 	go get database/sql
 
 	go get golang.org/x/crypto/bcrypt
