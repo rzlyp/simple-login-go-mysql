@@ -1,5 +1,5 @@
 # simple-login-go-mysql
-Just for fun :D
+Just for fun :D Simple Login Go With Mysql
 
 # How to Run ?
 #1.Create The Database with name go_db
